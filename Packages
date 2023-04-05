@@ -1,0 +1,16 @@
+Package: io.pangu.axe7
+Version: 0.3
+Depends: firmware (>= 7.1), firmware (<= 7.1.2), mobilesubstrate
+Priority: optional
+Section: test
+Maintainer: no one
+Architecture: iphoneos-arm
+Filename: ./debs/io.pangu.axe7_0.3_iphoneos-arm.deb
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
+SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
+SHA512: 74a2503e10172785b642b21801debd93c3862c81523b7ae53cd23c4b17aaef736df0a466c47caa03fc10fe75a5e7888fcc8f5b70adfad2fb5ddbba0a6b4a8e22
+Description: Fixes the light sensor panic bug for Pangu7 devices.
+Name: Pangu Untether (0.3)
+Author: Pangu
