@@ -1,8 +1,8 @@
-Origin: nyaugh
-Label: fard
+Origin: st4rz's repo
+Label: st4rz repo !!!
 Suite: unstable
-Version: 99999
-Codename: peepee
+Version: 0.2
+Codename: catasaurus
 Architectures: iphoneos-arm
 Components: main
-Description: trolled
+Description: a random repo that doesnt need to exist
