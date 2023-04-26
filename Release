@@ -1,8 +1,8 @@
 Origin: st4rz's repo
-Label: st4rz repo !!!
+Label: st4rz's repo
 Suite: unstable
 Version: 0.11
-Codename: catasaurus-zeep
+Codename: catasaurus-fivce
 Architectures: iphoneos-arm
 Components: main
 Description: a random repo that doesnt need to exist - custom tweaks soon!
